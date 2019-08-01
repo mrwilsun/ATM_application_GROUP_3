@@ -10,7 +10,7 @@ class Bank:
     accountPin = 1234
 
     def manages(self):
-        print("this is method manages under bank class")
+        print("this is the method manages under bank class")
 
     def maintains(self):
         print("this is the maintains method under the Bank class")
